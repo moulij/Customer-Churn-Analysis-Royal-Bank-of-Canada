@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-through-PowerBI
+# Customer-Churn-Analysis-(Royal-Bank-of-Canada)
 Overview
 
 This repository contains the analysis report for RBC Bank's customer churn based on the provided Requirement Document. The report aims to provide insights into factors influencing customer churn, enabling the development of effective churn prevention strategies.
